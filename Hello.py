@@ -26,7 +26,7 @@ def run():
 
     st.write("# :balloon: Welcome to Streamlit! Sample project Omid Gheysar for LLM 👋")
 
-    st.sidebar.success("Select a demo above. ML and DL and more")
+    st.sidebar.success("Select a demo above. ML and DL and more!!!")
 
     st.markdown(
         """
