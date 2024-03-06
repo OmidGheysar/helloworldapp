@@ -37,7 +37,8 @@ def run():
         ### Want to learn more here?
         - Check out [streamlit.io](https://streamlit.io)
         - Jump into our [documentation](https://docs.streamlit.io)
-        - Ask a question in our [community
+        - Ask your question in our [community
+        - here is my website (https://www.omid.consulting/)
           forums](https://discuss.streamlit.io)
         ### See more complex demos
         - Use a neural net to [analyze the Udacity Self-driving Car Image
